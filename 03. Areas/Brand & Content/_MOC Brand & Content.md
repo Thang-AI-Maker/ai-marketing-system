@@ -22,3 +22,9 @@ created: 2026-07-06
 ## Nhật ký content đã đăng
 - [[_MOC Content Đã Đăng]]
 - Hiệu suất/tương tác: [[_MOC Tương Tác Mạng Xã Hội]]
+
+## Bài nháp chờ duyệt (agent Hermes `facebook`)
+- [[_MOC Bài Nháp Chờ Duyệt]]
+
+## Video nháp chờ duyệt (agent Hermes `video`)
+- [[_MOC Video Nháp Chờ Duyệt]]

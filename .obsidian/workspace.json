@@ -14,7 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tab mới"
             }
           }
         ]
@@ -41,7 +41,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Trình duyệt tệp"
             }
           },
           {
@@ -95,7 +95,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tab mới"
             }
           }
         ]
@@ -112,7 +112,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Xem biểu đồ"
             }
           }
         ]
@@ -269,7 +269,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tab mới"
             }
           }
         ]
@@ -298,14 +298,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "audio-recorder:Bắt đầu/Dừng ghi âm": false,
+      "bases:Tạo cơ sở mới": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
@@ -316,6 +316,9 @@
   },
   "active": "08f850d44849a9f8",
   "lastOpenFiles": [
+    "03. Areas/Brand & Content/Bài Nháp Chờ Duyệt/2026-07-14 — Facebook — Dựng đội AI Agent marketing (Nháp).md",
+    "03. Areas/Brand & Content/Video Nháp Chờ Duyệt/_MOC Video Nháp Chờ Duyệt.md",
+    "03. Areas/Brand & Content/Video Nháp Chờ Duyệt",
     "00. Business Context/Sản Phẩm & Dịch Vụ/_MOC Sản Phẩm & Dịch Vụ.md",
     "00. Business Context/Brand Voice — Giọng Thương Hiệu.md",
     "00. Business Context/Business Model Canvas — [Tên Doanh Nghiệp].md",
@@ -348,12 +351,9 @@
     "03. Areas/Analytics & Reporting/Hiệu Quả Quảng Cáo/[Mẫu] Báo Cáo Quảng Cáo — [Chiến dịch] Tháng 7-2026.md",
     "03. Areas/Analytics & Reporting/Hiệu Quả Quảng Cáo/_MOC Hiệu Quả Quảng Cáo.md",
     "03. Areas/Analytics & Reporting/Hiệu Quả Quảng Cáo",
-    "03. Areas/Analytics & Reporting/Hiệu Quả Traffic Mạng Xã Hội/[Mẫu] Traffic MXH Tuần 27-2026.md",
-    "03. Areas/Analytics & Reporting/Hiệu Quả Traffic Mạng Xã Hội/_MOC Hiệu Quả Traffic Mạng Xã Hội.md",
     "03. Areas/Analytics & Reporting/Hiệu Quả Traffic Mạng Xã Hội",
     "01. Projects/[Test] An Nhiên Spa/Business Model Canvas.canvas",
     "04. Resources/Market & Competitor Research/Nghiên Cứu Thị Trường/[Ví dụ] Niche AI Tools Freelancer VN.canvas",
-    "04. Resources/Market & Competitor Research/Nghiên Cứu Thị Trường",
     "05. Archive/[Test] An Nhiên Spa/Business Model Canvas.canvas",
     "04. Archive/[Test] An Nhiên Spa/Business Model Canvas.canvas",
     "4. Mint/Active/AI-HUB/AI-HUB Phương Pháp Luận.canvas",

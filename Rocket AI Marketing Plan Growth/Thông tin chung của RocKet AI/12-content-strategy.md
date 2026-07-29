@@ -17,6 +17,17 @@ Nguyên tắc BẤT BIẾN mọi nội dung phải phản ánh, dù là video ng
 
 DNA này khớp trực tiếp Brand Bible (02) và ranh giới thương hiệu — là bộ lọc cuối trước khi bất kỳ nội dung nào lên sóng.
 
+### 0b. Routing nội dung theo hai phễu
+
+Mỗi bài bắt buộc gắn một trong hai nhánh; không dùng CTA chung:
+
+| Nhánh | Persona | CTA keyword | Điểm đến |
+|---|---|---|---|
+| **CEO-AIOS** | Chủ SME/BOD | `MAP` · `BRAIN` · `PIPELINE` · `AIOS` | Form CEO → Audit/Demo → proposal |
+| **DIGITAL-BUILDER** | Coach/trainer/chuyên gia | `BUILDER` · `SẢN PHẨM SỐ` | Form Builder → workshop/Zoom → Bootcamp |
+
+Content có thể dùng chung Big Idea, nhưng caption, case, CTA, form và KPI phải theo đúng nhánh. Persona C chỉ đi vào DIGITAL-BUILDER khi nhu cầu là chuyển mô hình/đóng gói sản phẩm số.
+
 ---
 
 ## 1. Sáu Content Pillar (mỗi pillar: insight + giai đoạn phễu + chỉ số)
@@ -80,9 +91,9 @@ DNA này khớp trực tiếp Brand Bible (02) và ranh giới thương hiệu �
 | Nhóm | Pillar | Tỷ trọng | Mục tiêu |
 |---|---|---|---|
 | **TOF — Nhận biết + thu data** | P4 (22%) + P5 (18%) | **40%** | Phủ + phục hồi nguồn lead |
-| **MOF — Cân nhắc / nuôi** | P1 (18%) + P2 (12%) | **30%** | Nuôi niềm tin, đẩy về workshop/zoom |
+| **MOF — Cân nhắc / nuôi** | P1 (18%) + P2 (12%) | **30%** | CEO → Audit/Demo; Builder → workshop/Zoom |
 | **Trust / Proof (MOF→BOF)** | P3 case (12%) + P6 Build in Public (8%) | **20%** | Bằng chứng + niềm tin, khác biệt dài hạn |
-| **BOF — Bán / CTA trực tiếp** | Bài bán + CTA rải trong P3 | **10%** | Đăng ký zoom/mua |
+| **BOF — Bán / CTA trực tiếp** | Bài bán + CTA rải trong P3 | **10%** | CEO đặt Audit; Builder đăng ký workshop/Zoom |
 
 **Content bán trực tiếp = 10% ≤ 30% ✓** (giữ thận trọng, ưu tiên phục hồi đầu phễu quý này). P3 + P6 là trust/proof (soft), không tính là "bán cứng". Khi data ổn định (T9–T10) nâng BOF gần 20–30%. P6 giữ đều **1–2 nội dung/tuần**.
 

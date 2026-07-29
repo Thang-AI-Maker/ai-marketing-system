@@ -9,13 +9,14 @@
 | Kênh | Vai phễu | Tình trạng (04) | Ghi chú |
 |---|---|---|---|
 | **FB cá nhân Thắng + Group Cơm AI Lo 200k** | TOF + MOF (nhận biết + cân nhắc) | Mạnh nhất, reach 20–67% | Cỗ máy free traffic, nền tảng để ads khuếch đại |
-| **Meta Ads (FB/IG)** | TOF→MOF→BOF (lead gen + retargeting) | Chưa chạy bao giờ | Ngựa thồ paid: lead ads → Zalo, retargeting → zoom/bootcamp |
+| **Meta Ads (FB/IG)** | TOF→MOF→BOF (lead gen + retargeting) | Chưa chạy bao giờ | Ngựa thồ paid: tách campaign CEO-AIOS và DIGITAL-BUILDER |
 | TikTok (Thang AI Maker) | TOF (nhận biết) | 11.5k, reach 2–4%, đang xây lại | Video ngắn phủ nhận biết rẻ, chưa ra khách |
 | YouTube (Thang AI Maker) | MOF (nuôi dưỡng, tin cậy) | 2k sub, view thấp | Long-form xây tin cậy — đã giảm cadence (04) |
 | Nhóm Zalo | MOF + BOF (nuôi dưỡng + chốt) | Hub chuyển đổi | Không phải kênh ads; chatbot nhắc/chăm sóc |
-| Zoom / Workshop 3 ngày | BOF (chốt) | Cỗ máy 12–20% | Điểm chốt duy nhất cho mọi tầng cao |
+| Workshop/Zoom Builder | BOF nhánh sản phẩm số | Cỗ máy lịch sử 12–20% | Chốt AI Builder Bootcamp |
+| Audit/Demo CEO | BOF nhánh CEO | Chưa có baseline tách riêng | Discovery → proposal → OS/Solution |
 
-**Nguyên tắc:** không kênh nào ôm cả 6 giai đoạn. Meta Ads nuôi đầu phễu → Zalo nuôi giữa → Zoom chốt.
+**Nguyên tắc:** Meta Ads nuôi đầu phễu → form/Zalo phân loại → Builder đi workshop/Zoom; CEO đi Audit/Demo và proposal.
 
 ## 2. Kênh CHÍNH được chọn (≤2)
 
@@ -33,41 +34,43 @@
 
 | Tầng | Mục tiêu | Định dạng | Tệp | Kênh |
 |---|---|---|---|---|
-| **TOF** | Nhận biết + kéo vào lớp free/lead magnet | Video hook 3s demo AI Agent, reach/lead ads | Interest AI/marketing/business owner; lookalike từ khách cũ, thành viên group, follower FB | Meta (chính) + TikTok (phụ) |
-| **MOF** | Thu data vào Zalo + đăng ký workshop/zoom | Lead ads / message-to-Zalo, đăng ký webinar | Retargeting: xem video ≥50%, tương tác page, click lead magnet | Meta + Zalo chatbot nuôi |
-| **BOF** | Đưa người đã vào Zalo/dự workshop tới chốt; bán bootcamp sau workshop | Retargeting warm, mời zoom, ưu đãi tham dự workshop | Đã vào Zalo, đã đăng ký chưa dự, đã dự chưa mua | Meta retargeting + Zoom |
+| **TOF — CEO** | Kéo đúng chủ DN vào AIOS Readiness | Founder pain, system map, lead pipeline | Chủ DN/BOD, lookalike khách CEO | Meta + FB organic |
+| **MOF/BOF — CEO** | Audit booked/attended, proposal | Retargeting demo/case, mời Audit | Lead `CEO-AIOS`, đã xem demo/chưa đặt lịch, đã Audit/chưa quyết | Meta + Zalo + Audit/Demo |
+| **TOF — Builder** | Kéo chuyên gia vào lead magnet/workshop | Product map, đóng gói tri thức, AI Builder | Coach/trainer/chuyên gia, lookalike buyer | Meta + FB/TikTok organic |
+| **MOF/BOF — Builder** | Đăng ký, tham dự và chốt Bootcamp | Webinar ads, reminder, retargeting warm | Lead `DIGITAL-BUILDER`, đăng ký chưa dự, dự chưa mua | Meta + Zalo + Zoom |
 
-**Lưu ý (nhất quán 08):** BOF chỉ retargeting **tệp ấm** (đã vào Zalo/dự workshop) để mời bootcamp — KHÔNG chạy ads bán bootcamp/solution cho tệp lạnh. High-ticket vẫn chốt qua zoom/tư vấn 1-1.
+**Lưu ý (nhất quán 08/10):** không chạy ads lạnh bán Bootcamp/OS/Solution. CEO retarget về Audit/Demo; Builder retarget về workshop/Zoom.
 
 ## 4. ROAS mục tiêu (≤ trần từ biên LN — 08)
 
-**Giá trị mỗi data (LTV-per-lead) — `[GIẢ ĐỊNH]` theo tỷ lệ mục tiêu, cần tracking xác nhận:**
-100 data → ~5 mua Bootcamp (5×6tr=30tr) + ~0,2 high-ticket (0,2×150tr=30tr) ≈ **~60tr doanh thu/100 data → ~600k/data**.
-→ Ở CPL 30–50k, ROAS gộp lý thuyết **~12–20x doanh thu** (chưa trừ biên). Ngay cả tính theo biên (~60–75%) vẫn dư địa lớn → **cho phép chi mạnh miễn giữ được tỷ lệ phễu.**
+**Không dùng LTV-per-lead blended 600k sau khi tách phễu.** Con số cũ cộng doanh thu Bootcamp và high-ticket vào cùng 100 data nên che khác biệt về persona, chu kỳ chốt và CAC. Tính riêng `LTV/lead CEO-AIOS` và `LTV/lead DIGITAL-BUILDER` sau khi có tracking.
 
 **ROAS/CPL mục tiêu vận hành:**
-- **Lead ads (free class + Entry):** đo bằng **CPL**, không đo ROAS trực tiếp. Mục tiêu CPL **≤ 30k (đẹp)**, trần **50k**. Chấp nhận hòa vốn front-end, lời ở backend.
-- **Retargeting BOF (bán bootcamp warm):** ROAS mục tiêu **≥ 3x**.
-- **Blended toàn phễu:** ROAS gộp mục tiêu **≥ 3–4x** (thận trọng, chừa biên) — thực tế kỳ vọng cao hơn nhiều nếu giữ chốt zoom & ascension 3–5%.
+- **Lead ads Builder:** đo CPL + tỷ lệ workshop attended + Bootcamp won. Mục tiêu CPL cũ **≤30k**, trần **50k** chỉ là giả định test.
+- **Lead ads CEO:** đo cost/qualified lead + cost/audit attended + cost/proposal; không tối ưu theo CPL thô.
+- **Retargeting Builder BOF:** ROAS mục tiêu cũ **≥3x**, xác nhận lại sau test.
+- **Retargeting CEO:** tối ưu theo Audit/Proposal/Won; không dùng ROAS ngắn hạn khi chu kỳ chốt chưa hoàn tất.
+- **ROAS toàn hệ:** chỉ dùng cho báo cáo tài chính; không dùng để quyết định scale một campaign cụ thể.
 
 ## 5. Quy tắc TĂNG / DỪNG ngân sách bằng số
 
 | Kênh / Chiến dịch | TĂNG khi | GIỮ khi | DỪNG / SỬA khi |
 |---|---|---|---|
-| **Meta lead ads** | CPL ≤ 30k **và** data→zoom ≥ 20% trong 7 ngày | CPL 30–50k, data→zoom 15–20% | CPL > 50k **hoặc** data→zoom < 15% kéo dài 5–7 ngày → đổi creative/tệp/offer |
+| **Meta Builder** | CPL ≤30k **và** data→workshop ≥20% trong 7 ngày | CPL 30–50k, data→workshop 15–20% | CPL >50k hoặc data→workshop <15% kéo dài 5–7 ngày → đổi creative/tệp/offer |
+| **Meta CEO** | Cost/qualified lead giảm và có Audit/Proposal thật | Có lead đúng tệp nhưng chu kỳ chốt chưa đủ | Lead rẻ nhưng sai vai trò/không có Audit sau 7–14 ngày → sửa form/tệp/offer |
 | **Meta retargeting BOF** | ROAS ≥ 3x | ROAS 2–3x | ROAS < 2x trong 7 ngày → thu hẹp tệp/đổi offer |
 | **TikTok (phụ, boost test)** | Có đóng góp data đo được + CPM rẻ | View-through tốt, hỗ trợ nhận biết | Sau 4–6 tuần không ra data/nhận diện đo được → cắt paid, giữ organic |
 | **FB organic Founder-led** | Data free hồi ≥ mục tiêu tháng | Đang hồi dần | Content không kéo được reach → xem lại chất lượng (nút thắt ở content, không phải kênh) |
 
-**Nguyên tắc ngân sách:** bắt đầu **nhỏ để test trong T7** (ngân sách test 5–10tr), đọc CPL & data→zoom thật, rồi mới scale theo quy tắc trên. Không scale khi chưa có tracking (điều kiện từ 10).
+**Nguyên tắc ngân sách:** bắt đầu nhỏ để test trong T7, đọc KPI riêng hai tag rồi mới scale. Không scale khi chưa có tracking và routing hai phễu.
 
-**Phân bổ ads 60–65tr/tháng (từ 09):** ~35–45tr lead gen (free class + Entry data) · ~10–15tr retargeting MOF/BOF · ~5–10tr TOF awareness (video/TikTok boost). Test hook/offer/tệp lấy từ bucket thử nghiệm 5–10tr.
+**Ngân sách ads 60–65tr/tháng (từ 09):** giữ trần tổng, nhưng phân bổ CEO/Builder chỉ sau test 5–10tr mỗi nhánh. Mỗi nhánh có campaign, UTM và báo cáo riêng; không bù campaign yếu bằng doanh thu nhánh còn lại.
 
 ---
 
 ## Khối bàn giao
 **`[CẦN BỔ SUNG]`:** CPL/ROAS thật sau test T7 (thay các `[GIẢ ĐỊNH]`) · LTV-per-lead thật sau khi tracking chạy · tệp lookalike từ danh sách khách cũ (cần export).
 **`[CHỜ BOD]`:** xác nhận 2 kênh chính (Meta Ads + FB organic), TikTok/YouTube giữ vai phụ.
-**Dùng cho 12–13–15:** content theo TOF/MOF/BOF (12); ngân sách kênh vào roadmap (13); CPL/ROAS/data→zoom thành KPI kênh (15).
+**Dùng cho 12–13–15:** content phải gắn persona + tag; ngân sách và KPI tách CEO-AIOS / DIGITAL-BUILDER.
 
 *Tài liệu 11 · trạng thái: khả dụng, chờ số test T7 để chốt ROAS thật. Chờ bạn duyệt trước khi chạy 12.*

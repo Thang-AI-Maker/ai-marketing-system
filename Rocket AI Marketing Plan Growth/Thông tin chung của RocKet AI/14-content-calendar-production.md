@@ -74,12 +74,12 @@
 ## 5. Lead Magnet (cỗ máy thu data — pillar 4)
 | Lead magnet | Đổi lấy | Keyword | Dẫn tới |
 |---|---|---|---|
-| Bộ 50 Prompt AI Marketing thực chiến | Vào nhóm Zalo | "PROMPT" | Nurture → workshop |
-| Checklist "Xây AI Agent cho phòng Marketing" | Vào Zalo | "AGENT" | Workshop Day 3 (CEO/SME) |
-| Ebook "Top 100 công cụ AI 2026" | Vào Zalo | "AI100" | Nurture chung |
-| Template "Đóng gói kiến thức thành sản phẩm số" | Vào Zalo | "SỐ" | Workshop Day 1 (chuyên gia) |
+| AIOS Readiness Map 5 lớp | Form CEO + Zalo | "MAP" | Tag `CEO-AIOS` → Audit/Demo |
+| Checklist Business Brain / Lead Pipeline | Form CEO + Zalo | "BRAIN" / "PIPELINE" | Tag `CEO-AIOS` → Audit/Demo |
+| Bản đồ 7 bước đóng gói sản phẩm số | Form Builder + Zalo | "BUILDER" | Tag `DIGITAL-BUILDER` → workshop |
+| Starter Kit AI Builder | Form/Entry Builder | "SẢN PHẨM SỐ" | Tag `DIGITAL-BUILDER` → workshop/Zoom |
 
-Mỗi lead magnet gắn tracking riêng (13/15) để biết cái nào ra nhiều data & data nào lên zoom.
+Mỗi lead magnet gắn tracking riêng (13/15), bắt buộc có `persona_tag`; CEO đo Audit/Proposal, Builder đo workshop/Bootcamp.
 
 ## 6. Kế hoạch quay (gom batch — tiết kiệm công suất Duy)
 | Buổi | Nội dung gom | Người | Repurpose ra |

@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "landing-preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-I",
+        "-c",
+        "import os,sys,runpy; os.chdir('/private/tmp/claude-501/-Users-truongcanhthang-Documents-Skill-ai-marketing-system/8419e747-d87f-4d85-9302-26d971d6e662/scratchpad'); sys.argv=['http.server','8765']; runpy.run_module('http.server', run_name='__main__')"
+      ],
+      "port": 8765
+    }
+  ]
+}

@@ -14,11 +14,13 @@
 ## 2. Ba Persona
 
 ### Persona A — Chị Phương (30–45) · Chuyên gia / Coach / Trainer
-- **Hồ sơ:** đã có personal brand hoặc cộng đồng riêng, có khóa học/dịch vụ/chương trình đào tạo. Ở sẵn trên social.
+- **Hồ sơ ưu tiên:** chuyên gia/coach/trainer/consultant đã có **chuyên môn được thị trường công nhận**, personal brand hoặc cộng đồng riêng, và ít nhất một dịch vụ/khóa học/chương trình đào tạo đang bán được. Họ đã ở sẵn trên social và biết bán hàng; không phải người bắt đầu từ số 0.
 - **Hành vi:** theo dõi KOL AI, tự học nhiều, mua khóa để áp dụng cho chính thương hiệu mình.
-- **Tính cách mua** *(founder cung cấp)*: **máu chiến, năng lượng cao, thiên bán hàng** — quyết nhanh, thích tự triển khai và bán lại. Hợp mô hình kinh doanh sản phẩm số của chính họ.
+- **Nút thắt đặc trưng:** yếu công nghệ và thiếu đội ngũ/không muốn phình đội ngũ; nội dung, chốt sale, đóng gói tri thức và chăm học viên vẫn dính vào chính họ. Họ không tìm thêm một công cụ AI, mà tìm một "đội ngũ AI" để biến tri thức sẵn có thành tài sản và dòng doanh thu có thể lặp lại.
+- **Tính cách mua** *(founder cung cấp)*: **máu chiến, năng lượng cao, thiên bán hàng** — quyết nhanh, thích tự triển khai và bán lại. Vì đã có audience, chuyên môn và năng lực bán, đây là nhóm có khả năng nhìn ra ROI nhanh và **sẵn sàng chi trả cao nhất cho gói chuyển giao trọn mô hình**, nếu thấy đường đi tới sản phẩm lợi nhuận cao rõ ràng.
 - **Kênh:** Facebook cá nhân, group, TikTok/YouTube — trùng đúng kênh Rocket AI mạnh.
-- **Sản phẩm thường mua:** **AI Builder Bootcamp (high-ticket builder)**, Bộ AI Agent Marketing & Sales, Coaching triển khai AI cho personal brand.
+- **Tiêu chí sàng lọc ICP:** có audience/cộng đồng hoặc tệp khách cũ để kích hoạt; có chuyên môn giải quyết một vấn đề đủ đắt giá; từng bán dịch vụ/đào tạo; sẵn sàng dành thời gian để xác thực offer. Không lấy quy mô follower làm tiêu chí duy nhất.
+- **Sản phẩm thường mua:** **AI Builder Bootcamp (high-ticket builder)**, chương trình chuyển giao "AI Product & Revenue System", Bộ AI Agent Marketing & Sales, coaching triển khai AI cho personal brand.
 
 ### Persona B — Anh Hưng (35–50) · Chủ SME
 - **Hồ sơ:** DN 10–100 nhân sự (thương mại, sản xuất, phân phối, bán sỉ, TMĐT, dịch vụ), doanh thu vài chục đến hàng trăm tỷ/năm, đã thử AI nhưng chưa thành hệ thống.
@@ -46,8 +48,8 @@
 > Neo: *"Em không thiếu công cụ, em thiếu một hệ thống"* · *"Nếu có người cầm tay triển khai thì em sẵn sàng đầu tư"* *(khách nói)*.
 
 **Persona A — Chị Phương:**
-> *"Tôi muốn mở rộng quy mô mà không phải tăng nhân sự, nhưng mọi thứ vẫn dính vào chính tôi, vì tôi chưa có hệ thống AI tự động tạo khách và vận hành thay tôi."*
-> Neo: *"Nội dung vẫn phụ thuộc nhiều vào bản thân"*, *"muốn mở rộng nhưng không muốn tăng quá nhiều nhân sự"* *(khách nói)*.
+> *"Tôi có chuyên môn, có người tin và biết bán hàng; tôi muốn tạo một sản phẩm lợi nhuận cao bán lặp lại mà không phải tuyển thêm người, nhưng mọi thứ vẫn dính vào chính tôi, vì tôi yếu công nghệ và chưa có hệ thống AI đóng gói tri thức, tạo khách và vận hành thay tôi."*
+> Neo: *"Nội dung vẫn phụ thuộc nhiều vào bản thân"*, *"muốn mở rộng nhưng không muốn tăng quá nhiều nhân sự"* *(khách nói)*. Phần "có chuyên môn/cộng đồng, yếu công nghệ, thiếu đội ngũ" là **[GIẢ ĐỊNH ƯU TIÊN]** từ định hướng founder — cần xác nhận qua discovery call.
 
 **Persona B — Anh Hưng:**
 > *"Tôi muốn AI giảm chi phí nhân sự và chuẩn hóa quy trình, nhưng tôi từng đổ hàng trăm triệu vào IT/outsource mà không thành hệ thống, vì tôi chỉ nhận được các mảnh rời rạc chứ chưa ai chuyển giao một hệ thống chạy được ngay."*
@@ -64,17 +66,18 @@
 | Tiêu chí | A · Phương (Coach) | B · Hưng (SME) | C · Minh (Founder) |
 |---|---|---|---|
 | Quy mô nhóm | 4 | 4 | 3 |
-| Khả năng chi trả | 4 | 5 | 4 |
+| Khả năng chi trả | **5** | 5 | 4 |
 | Mức cấp thiết | 4 | 4 | 4 |
 | Dễ tiếp cận | 5 | 2 | 4 |
 | Biên lợi nhuận | 4 | 5 | 4 |
 | Khả năng trung thành | 4 | 4 | 3 |
 | Phù hợp năng lực team (01) | 5 | 4 | 4 |
 | **Khả năng lan tỏa / train-the-trainer** | 4 (lan qua brand cá nhân) | **5 (đội ngũ học & nhân bản, tạo nhà bán hàng)** | 3 |
-| **Tổng** | **34** | **33** | **29** |
+| **Tổng** | **35** | **33** | **29** |
 
-**Đọc điểm:** hai nhóm A và B **gần như ngang nhau** (34 vs 33) nhưng theo hai logic khác nhau, nên **cả hai đều là persona chính** với offer riêng:
-- **A · Chuyên gia (máu chiến, bán hàng)** → dễ tiếp cận, quyết nhanh, ra doanh thu nhanh. Cỗ máy **volume + tốc độ**.
+**Quyết định ưu tiên hiện tại (founder, 21/07/2026):** không thay đổi việc A và B là hai persona chính, nhưng **Persona A được nâng thành mũi nhọn go-to-market trong 60–90 ngày đầu**. Lý do: họ đã sở hữu ba tài sản hiếm — chuyên môn, niềm tin/cộng đồng và năng lực bán — trong khi điểm nghẽn AI/công nghệ/đội ngũ là nơi Rocket AI có thể chuyển giao giá trị rõ nhất. Đây là giả thuyết "ra kết quả nhanh + willingness-to-pay cao" cần được kiểm bằng dữ liệu bán, không phải kết luận thị trường chung.
+
+- **A · Chuyên gia có chuyên môn + cộng đồng, yếu công nghệ/thiếu đội ngũ** → dễ tiếp cận, quyết nhanh, có đường tới ROI nhanh và ticket cao khi offer gắn trực tiếp với **một sản phẩm lợi nhuận cao + hệ bán lặp lại**. Cỗ máy **doanh thu nhanh + case study đầu tiên**.
 - **B · SME (trao giá trị, lan tỏa)** → biên cao nhất + đòn bẩy **train-the-trainer**: mỗi DN nhận solution biến thành nguồn nhân bản sản phẩm. Cỗ máy **lợi nhuận + lan tỏa dài hạn**.
 
 ## 6. Hai persona chính — chia ngân sách 2 nhánh + nhóm KHÔNG phục vụ
@@ -84,9 +87,22 @@ Ngân sách chia làm **2 nhánh song song**, mỗi nhánh một offer lõi khá
 | Nhánh | Persona | Offer lõi chuyển giao | Vai trò |
 |---|---|---|---|
 | **Nhánh Doanh nghiệp** | **B — Anh Hưng (SME)** | **Chuyển giao solution: hệ thống Agent marketing & bán hàng tự động** (100–500tr / 10–20k USD) | Lợi nhuận cao + train-the-trainer lan tỏa |
-| **Nhánh Chuyên gia** | **A — Chị Phương (Coach/Consultant)** | **Chuyển giao mô hình kinh doanh sản phẩm số** = khóa **high-ticket của Builder Bootcamp** | Doanh thu nhanh + năng lượng bán hàng cao |
+| **Nhánh Chuyên gia — ưu tiên 60–90 ngày** | **A — Chị Phương (Coach/Consultant)** | **Chuyển giao mô hình sản phẩm lợi nhuận cao**: định vị pain đắt giá → đóng gói IP → MVP/offer → hệ content/Zoom/sale → AI agent hỗ trợ delivery & CSKH | Doanh thu nhanh + ticket cao + case study chứng minh |
 
 Hai offer bổ trợ nhau: chuyên gia (A) tự triển khai & bán lại sản phẩm số; doanh nghiệp (B) nhận hệ thống rồi đội ngũ nhân bản. Cùng chung insight lõi "thiếu hệ thống, cần người cầm tay".
+
+### 6.1. Lời hứa và điều kiện thắng của nhánh Chuyên gia
+
+**Định vị nên dùng:** *"Rocket AI giúp chuyên gia đã có tri thức và cộng đồng biến chuyên môn thành sản phẩm lợi nhuận cao cùng hệ thống bán–vận hành được AI khuếch đại; không cần tự trở thành người giỏi công nghệ hay phình đội ngũ."*
+
+**Không hứa:** "thu nhập thụ động ngay lập tức" hoặc "AI tự kiếm tiền". Kết quả đúng là một tài sản số và hệ doanh thu **bán lặp lại/tự động hóa dần**, vẫn cần insight, kiểm định thị trường và quản trị của chuyên gia.
+
+**Ba điều kiện phải có trước khi nhận khách high-ticket:**
+1. Có vấn đề khách hàng cụ thể mà chuyên gia đã từng giải quyết và có bằng chứng/kết quả.
+2. Có tệp có thể tiếp cận ngay (community, data khách cũ, social có tương tác, network đối tác) hoặc ngân sách/phương án phân phối rõ.
+3. Chấp nhận chọn một offer để kiểm định trong 30–45 ngày, thay vì yêu cầu Rocket AI tạo "nhiều sản phẩm" cùng lúc.
+
+**Thước đo xác thực giả thuyết trong 30 ngày:** số cuộc discovery đạt chuẩn → tỷ lệ book audit/Zoom → tỷ lệ chốt → AOV → thời gian ra offer/MVP → doanh thu thử nghiệm đầu tiên. So sánh với nhánh SME trước khi dịch chuyển ngân sách dài hạn.
 
 **Persona C — Anh Minh (Founder):** phục vụ ké (trùng Builder Bootcamp với A), **không mở nhánh ngân sách riêng** kỳ này để tránh rải mỏng.
 
@@ -105,6 +121,7 @@ Hai offer bổ trợ nhau: chuyên gia (A) tự triển khai & bán lại sản 
 **`[CẦN PHỎNG VẤN]` / `[CẦN BỔ SUNG]`:**
 - Nhân khẩu học định lượng (tuổi/giới/khu vực) từ analytics để xác nhận persona A khớp tệp đang xem (nối tài liệu 04).
 - Tỷ trọng doanh thu thực tế A vs B vs C (xác nhận A ra tiền nhanh, B ra tiền lớn) — xuất từ đơn 1 quý.
+- Với Persona A: đo riêng tỷ lệ có cộng đồng, có lịch sử bán, mức thiếu đội ngũ/công nghệ, AOV, thời gian chốt và thời gian ra doanh thu thử nghiệm — để kiểm giả thuyết ưu tiên 60–90 ngày.
 - 5–10 câu nói thật riêng của nhóm SME (B) để làm nội dung high-ticket (hiện B ít quote hơn A).
 
 **Nội dung dùng ngay:** sale/content có thể viết đúng nỗi đau — đánh vào "không thiếu công cụ, thiếu hệ thống" + "cần lộ trình cụ thể, kết quả rõ ràng, có người cầm tay". Xử lý 8 câu từ chối bằng cấu trúc offer ở tài liệu 08 (đặc biệt: "sợ học xong không triển khai" → cam kết đồng hành; "sợ giải pháp rời rạc" → nhấn tính hệ thống trọn gói).

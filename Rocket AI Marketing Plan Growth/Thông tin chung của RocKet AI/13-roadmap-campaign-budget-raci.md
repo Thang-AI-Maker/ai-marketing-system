@@ -51,9 +51,9 @@ R = chịu trách nhiệm chính · A = phê duyệt · C = tư vấn · I = đ�
 | Kế hoạch & điều phối content (6 pillar/series) | **Anh Thư** (Content Planner) | Thắng | Cường | Doan, Duy |
 | Sản xuất video (short + ads + demo) | **Duy** (Editor) | Anh Thư | Thắng | — |
 | Đăng bài & vận hành social đa kênh | **Doan** | Anh Thư | — | Thắng |
-| Workshop 3 ngày — tổ chức & Day 1 (chuyên gia) | **Thắng** | Tony Triệu | Anh Thư | Cả team |
-| Workshop Day 3 (AI Agent cho CEO/SME) | **Tony Hoàng** | Thắng | Tony Triệu | — |
-| Chốt sale zoom (bootcamp) | **Thắng** | — | Tony Triệu | Doan |
+| Workshop/Zoom Builder — sản phẩm số | **Thắng** | Tony Triệu | Anh Thư | Cả team |
+| AIOS Audit/Demo cho CEO/SME | **Tony Hoàng** | Tony Triệu | Thắng | Cường |
+| Chốt sale Zoom Builder (Bootcamp) | **Thắng** | — | Tony Triệu | Doan |
 | Tư vấn & chốt high-ticket (Solution/Coaching) | **Tony Triệu** | BOD | Thắng, Tony Hoàng | — |
 | Delivery/chuyển giao Solution Agent | **Tony Hoàng** | Mr. Kiên | Cường, Linh | Tony Triệu |
 | Nền tảng Genful (vận hành + đẩy 15% DT) | **Linh** | Mr. Kiên | Thắng (mkt) | Cường |
